@@ -2,6 +2,8 @@
 
 This repository is a disposable test environment for authorized, good-faith security research involving GitHub CLI.
 
+This repository is proof that I have pooped my pants.
+
 ## Scope
 
 - Use only accounts, repositories, and credentials controlled by the researchers.
